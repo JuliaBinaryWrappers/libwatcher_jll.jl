@@ -1,0 +1,14 @@
+name = "libwatcher_jll"
+uuid = "f2e3f4ed-6d30-53f6-bb33-6a6ab454fa9c"
+version = "2.0.5+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+LibUV_jll = "183b4373-6708-53ba-ad28-60e28bb38547"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"

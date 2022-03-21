@@ -1,0 +1,54 @@
+[[libwatcher]]
+arch = "aarch64"
+git-tree-sha1 = "14d71a07ed70d19ab349f04e061bcb8d0ca55570"
+os = "macos"
+
+    [[libwatcher.download]]
+    sha256 = "1bc50101a0847247d47961740757a6056e7ab0efe1a7c486f287960185df995e"
+    url = "https://github.com/JuliaBinaryWrappers/libwatcher_jll.jl/releases/download/libwatcher-v2.0.5+0/libwatcher.v2.0.5.aarch64-apple-darwin.tar.gz"
+[[libwatcher]]
+arch = "x86_64"
+git-tree-sha1 = "80c4609302ea28630c13b893c3a3a77dad820db0"
+os = "macos"
+
+    [[libwatcher.download]]
+    sha256 = "f91836973d87ea9c4c20e29b4957414fb7294066ffee884b846c0896a798ddad"
+    url = "https://github.com/JuliaBinaryWrappers/libwatcher_jll.jl/releases/download/libwatcher-v2.0.5+0/libwatcher.v2.0.5.x86_64-apple-darwin.tar.gz"
+[[libwatcher]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "08f2e3c6674c965ca3b0c79fd1adf30e35ccd255"
+libc = "glibc"
+os = "linux"
+
+    [[libwatcher.download]]
+    sha256 = "7a704aa146fadabfe3fb711d332d0b76c4ce2f55f8247eac718ea30616da98b6"
+    url = "https://github.com/JuliaBinaryWrappers/libwatcher_jll.jl/releases/download/libwatcher-v2.0.5+0/libwatcher.v2.0.5.x86_64-linux-gnu-cxx03.tar.gz"
+[[libwatcher]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "384b886f1235be97fe35655f2c5e5de2863f8e02"
+libc = "glibc"
+os = "linux"
+
+    [[libwatcher.download]]
+    sha256 = "07c4057b194426c7997b6d49c89e99a456644746334cf1d89c6d7badb7abb311"
+    url = "https://github.com/JuliaBinaryWrappers/libwatcher_jll.jl/releases/download/libwatcher-v2.0.5+0/libwatcher.v2.0.5.x86_64-linux-gnu-cxx11.tar.gz"
+[[libwatcher]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "42a233fafdeb3b3b086e9d9bd34d615f26a99233"
+os = "windows"
+
+    [[libwatcher.download]]
+    sha256 = "f36d28b8f45f9783416dfee60a73effb40a88a73e1cc42da450f7c66498a39ce"
+    url = "https://github.com/JuliaBinaryWrappers/libwatcher_jll.jl/releases/download/libwatcher-v2.0.5+0/libwatcher.v2.0.5.x86_64-w64-mingw32-cxx03.tar.gz"
+[[libwatcher]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3ceccac6dc922373fdb080e694e50747dee712ad"
+os = "windows"
+
+    [[libwatcher.download]]
+    sha256 = "9af79d7deef1773a788ede9bf57607632edc477edd0680f9b743fc40716aa24c"
+    url = "https://github.com/JuliaBinaryWrappers/libwatcher_jll.jl/releases/download/libwatcher-v2.0.5+0/libwatcher.v2.0.5.x86_64-w64-mingw32-cxx11.tar.gz"
